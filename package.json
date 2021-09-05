@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "imap": "^0.8.19",
+    "imap-simple": "^5.1.0"
+  }
+}
