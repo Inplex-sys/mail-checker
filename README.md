@@ -1,6 +1,4 @@
-# Dark Utilities - Mail Checker
-
-Our Website [https://omega-project.cz/](https://omega-project.cz/) !
+# Mail Checker
 
 # Features!
 
