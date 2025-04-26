@@ -1,7 +1,16 @@
 {
+  "name": "mail-checker",
+  "module": "src/main.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
   "dependencies": {
-    "chalk": "^4.1.2",
-    "imap": "^0.8.19",
-    "imap-simple": "^5.1.0"
+    "@types/imap": "^0.8.42",
+    "imap": "^0.8.19"
   }
 }
